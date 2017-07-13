@@ -1,0 +1,4 @@
+/Users/ohto/Documents/data/go/params/in/
+/Users/ohto/Documents/data/go/params/out/
+./julielog/
+
